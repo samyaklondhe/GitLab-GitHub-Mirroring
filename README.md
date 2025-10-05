@@ -14,7 +14,7 @@ It helps in automatically synchronizing code between both platforms — a key **
 - Make sure both repositories use the **same branch name** (for example, `main` or `master`).
 
 📸
-![GitLab Repo Created](Images\LabRepo.PNG)
+![GitLab Repo Created](Images/LabRepo.PNG)
 
 
 
