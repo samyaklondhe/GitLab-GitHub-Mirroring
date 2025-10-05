@@ -19,7 +19,7 @@ It helps in automatically synchronizing code between both platforms — a key **
 
 
 
-![GitHub Repo Created](Images\HubRepo.PNG)
+![GitHub Repo Created](Images/HubRepo.PNG)
 ---
 
 ### 2. Create Token on GitHub
@@ -28,7 +28,7 @@ It helps in automatically synchronizing code between both platforms — a key **
 3. Copy the generated token safely — it will be used inside GitLab.
 
 📸
-![GitLab Token Created](Images\Token.PNG)
+![GitLab Token Created](Images/Token.PNG)
 
 ---
 
@@ -43,7 +43,7 @@ It helps in automatically synchronizing code between both platforms — a key **
 7. Choose **Push** or **Pull** mirroring depending on your workflow.(Pull is Paid)
 
 📸
-![Mirroring Repo](Images\MirrorSetting.PNG)
+![Mirroring Repo](Images/MirrorSetting.PNG)
 
 ---
 
@@ -53,14 +53,14 @@ It helps in automatically synchronizing code between both platforms — a key **
 - Push some code to GitLab — it should automatically sync to GitHub within a few minutes.
 
 📸
-![Push to GitLab](Images\FilePushed.PNG)
+![Push to GitLab](Images/FilePushed.PNG)
 
 
 
 
 
 
-![Mirrored To GitHub](Images\FileMirrored.PNG)
+![Mirrored To GitHub](Images/FileMirrored.PNG)
 
 ---
 
